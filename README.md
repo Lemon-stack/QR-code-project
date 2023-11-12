@@ -20,5 +20,6 @@ More especially, frameworks like React, Vue Js and many more are things look for
 
 ## Author
 - Lemon Confidence 
-- [@yourusername](https://www.frontendmentor.io/profile/Lemon-stack)
+- @Lemon-stack
+(https://www.frontendmentor.io/profile/Lemon-stack)
 - Twitter - [@confidence4196](https://www.twitter.com/confidence4196)
